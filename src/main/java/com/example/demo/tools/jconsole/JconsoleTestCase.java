@@ -1,4 +1,4 @@
-package com.example.demo.tools;
+package com.example.demo.tools.jconsole;
 
 import java.util.ArrayList;
 import java.util.List;
